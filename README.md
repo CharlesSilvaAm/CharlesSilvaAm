@@ -64,19 +64,3 @@ Com boa experiência em automação de testes, tanto no planejamento quanto na e
 </a> <a href="https://www.selenium.dev/" target=_blank" rel"noreferrer"> <img alt="Selenium WebDriver" height="30" width="30" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
 </a> <a href="https://rest-assured.io/" target=_blank" rel"noreferrer"> <img alt="REST Assured" height="30" width="30" src="https://rest-assured.io/img/logo-transparent.png">
 </div>
-
-
-
-## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
-
-<picture>
-    <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-
-<picture>
-    <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Calendar Metrics">
-</picture>
-
-<div style="display: flex; justify-content: space-between">
-<img src="https://github-readme-stats-two-gray.vercel.app/api?username=CharlesSilvaAm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Charles GitHub stats" width="450"> <img src="https://github-readme-stats-two-gray.vercel.app/api/top-langs/?username=CharlesSilvaAm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook&layout=compact" alt="Charles" width="375"
-</div>

@@ -46,6 +46,8 @@ Com boa experiência em automação de testes, tanto no planejamento quanto na e
 </a> <a href="https://www.jenkins.io/" target=_blank" rel"noreferrer"> <img alt="Jenkins" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg">
 </a> <a href="https://azure.microsoft.com/en-us/products/devops/" target=_blank" rel"noreferrer"> <img alt="Azure DevOps" height="30" width="30" src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png">
 </div>
+  
+<a href="https://linktr.ee/CharlesSilvaAm"> <img src="https://drive.google.com/uc?id=155yngjkGmfTaMjs6a89sk5gqZxEqKKpM" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Charles Silva"></a>
 
 ## 🚀 Estudando
 
@@ -64,3 +66,5 @@ Com boa experiência em automação de testes, tanto no planejamento quanto na e
 </a> <a href="https://www.selenium.dev/" target=_blank" rel"noreferrer"> <img alt="Selenium WebDriver" height="30" width="30" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
 </a> <a href="https://rest-assured.io/" target=_blank" rel"noreferrer"> <img alt="REST Assured" height="30" width="30" src="https://rest-assured.io/img/logo-transparent.png">
 </div>
+
+  <a href="https://linktr.ee/CharlesSilvaAm"> <img src="https://drive.google.com/uc?id=17Ghw1Qi6XoJozBerzZH6MT6k5SVWrM34" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"></a>

@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<a href="https://linktr.ee/CharlesSilvaAm"> <img src="https://drive.google.com/uc?id=155yngjkGmfTaMjs6a89sk5gqZxEqKKpM" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Charles Silva"></a>
+<a href="https://linktr.ee/CharlesSilvaAm"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Charles Silva"></a>
 
 - 🎓 Graduando em Análise de Desenvolvimento de Sistemas.
 - 💼 Analista de Testes de Software no [Grupo ICTS](https://www.grupoicts.com.br/)
@@ -47,7 +47,7 @@ Com boa experiência em automação de testes, tanto no planejamento quanto na e
 </a> <a href="https://azure.microsoft.com/en-us/products/devops/" target=_blank" rel"noreferrer"> <img alt="Azure DevOps" height="30" width="30" src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png">
 </div>
   
-<a href="https://linktr.ee/CharlesSilvaAm"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Charles Silva"></a>
+<a href="https://linktr.ee/CharlesSilvaAm"> <img src="https://drive.google.com/uc?id=155yngjkGmfTaMjs6a89sk5gqZxEqKKpM" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Charles Silva"></a>
 
 ## 🚀 Estudando
 

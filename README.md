@@ -19,8 +19,8 @@ Com boa experiência em automação de testes, tanto no planejamento quanto na e
 </p>
 
 <a href="https://www.linkedin.com/in/charles-silva-b602a4227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/https://www.instagram.com/charlesjacqueminouthedasilva/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/charlesjacqueminouthedasilva/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://github.com/CharlesSilvaAm" target="_blank"><img src="https://img.shields.io/badge/Github-330F63?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href = "mailto:charlessilva.am@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 

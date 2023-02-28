@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<a href="https://linktr.ee/CharlesSilvaAm"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Charles Silva"></a>
+<a href="https://linktr.ee/CharlesSilvaAm"> <img src="https://drive.google.com/uc?id=1ukVS4yYUtTzbpW9qSgSMQ6n6ZMxirAX3" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Charles Silva"></a>
 
 - 🎓 Graduando em Análise de Desenvolvimento de Sistemas.
 - 💼 Analista de Testes de Software no [Grupo ICTS](https://www.grupoicts.com.br/)

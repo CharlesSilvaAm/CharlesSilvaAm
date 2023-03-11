@@ -68,3 +68,6 @@ Com boa experiência em automação de testes, tanto no planejamento quanto na e
 </div>
 
   <a href="https://linktr.ee/CharlesSilvaAm"> <img src="https://drive.google.com/uc?id=17Ghw1Qi6XoJozBerzZH6MT6k5SVWrM34" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"></a>
+
+![Snake animation](https://github.com/CharlesSilvaAm/CharlesSilvaAm/blob/output/github-contribution-grid-snake.svg)
+

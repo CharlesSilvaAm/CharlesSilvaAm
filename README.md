@@ -15,7 +15,7 @@
 - 📍 Morando em Manaus-AM (Brasil).
 
 <p align="justify"> 
-Com boa experiência em automação de testes, tanto no planejamento quanto na execução, utilizando ferramentas como Robot Framework, Playwright e Cypress para automação Web e API, e habilidades sólidas em linguagens como Java,Python e JavaScript, além de estar atualmente em constante desenvolvimento em Java com Cucumber e Selenium WebDriver, assim como no REST Assured para aprimorar os testes de aplicações API, estou sempre em busca de aprimoramento na área, buscando garantir a qualidade dos sistemas por meio de testes manuais e automatizados.
+Com boa experiência em automação de testes, tanto no planejamento quanto na execução, utilizando ferramentas como Robot Framework, Playwright e Cypress para automação Web e API, e habilidades sólidas em linguagens como Python e JavaScript, além de estar atualmente em constante desenvolvimento Automação em Java e Java com Cucumber e Selenium WebDriver, assim como no REST Assured para aprimorar os testes de aplicações API, estou sempre em busca de aprimoramento na área, buscando garantir a qualidade dos sistemas por meio de testes manuais e automatizados.
 </p>
 
 <a href="https://www.linkedin.com/in/charles-silva-b602a4227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
